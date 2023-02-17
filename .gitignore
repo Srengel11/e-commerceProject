@@ -1,0 +1,31 @@
+# Build and Release Folders
+bin-debug/
+bin-release/
+[Oo]bj/
+[Bb]in/
+
+
+# Other files and folders
+.settings/
+*.lock
+
+# Executables
+*.swf
+*.air
+*.ipa
+*.apk
+
+node_modules/
+.expo/
+dist/
+npm-debug.*
+*.jks
+*.p8
+*.p12
+*.key
+*.mobileprovision
+*.orig.*
+web-build/
+
+# macOS
+.DS_Store
